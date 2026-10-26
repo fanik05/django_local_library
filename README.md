@@ -1,1 +1,1 @@
-This is the tutorial project for learning Django framework from MDN.
+**This is the tutorial project for learning Django framework from MDN.**
